@@ -6,8 +6,6 @@ This project is a simple Node.js application built with Express. It provides an 
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
