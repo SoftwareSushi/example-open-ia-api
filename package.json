@@ -1,0 +1,16 @@
+{
+  "name": "my-nodejs-project",
+  "version": "1.0.0",
+  "description": "A Node.js project using Express to interact with the OpenAI API.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
